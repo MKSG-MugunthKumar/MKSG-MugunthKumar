@@ -22,11 +22,20 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 ## 📊 GitHub Activity
 
+### Recent Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=github-compact&hide_border=true&area=true)
 
+### Contribution Stats
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKSG-MugunthKumar&theme=default&hide_border=true)
+
+</div>
+
+### Historical Contributions (Since 2009)
+<div align="center">
+
+[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)](https://github.com/MKSG-MugunthKumar)
 
 </div>
 
@@ -46,9 +55,11 @@ I build purpose-driven technology that creates real social impact. With expertis
 - **[MKBlockTimer](https://github.com/MKSG-MugunthKumar/MKBlockTimer)** - Performance measurement utility
 - **[DeviceHelper](https://github.com/MKSG-MugunthKumar/DeviceHelper)** - iOS device capability detection
 
-## 📚 Technical Writing
+## 📚 Books & Publications
 
-Co-authored sample code for **iOS 7 Programming Pushing the Limits** - helping developers master advanced iOS concepts.
+**Author**: [iOS 7 Programming Pushing the Limits](https://www.amazon.com/stores/author/B006IY5KRK) - Develop advanced applications for Apple iPhone, iPad, and iPod Touch
+
+Co-authored comprehensive sample code helping developers master advanced iOS concepts, covering programming methodologies, mobile development, and usability engineering.
 
 ## 💡 Current Focus
 
