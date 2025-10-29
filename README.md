@@ -18,7 +18,8 @@ I build purpose-driven technology that creates real social impact. With expertis
 - Maintaining and updating zsh-ai-assist with latest AI models
 - Reviewing and merging community PRs
 - Supporting multi-shell environments
-- Engaging with the open-source community
+- Contributing to open source projects
+- [LinkedIn Projects](https://www.linkedin.com/in/mugunthkumar)
 
 ## 📊 GitHub Activity
 
@@ -58,17 +59,17 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 ## 🤝 Open Source Contributions
 
-Contributing to projects I find useful:
+Forked and contributed back to upstream:
 
-- **[Enphase-Envoy-mqtt-json](https://github.com/MKSG-MugunthKumar/Enphase-Envoy-mqtt-json)** - Takes real-time stream from Enphase Envoy and publishes to MQTT broker for Home Assistant
-- **[audible-bookmark-extractor](https://github.com/MKSG-MugunthKumar/audible-bookmark-extractor)** - Download audiobooks from Audible and transcribe bookmarks to text, exportable to Readwise and Excel
-- **[october](https://github.com/marcus-crane/october)** - A simple GUI for retrieving Kobo highlights and syncing them with Readwise
+- **[Enphase-Envoy-mqtt-json](https://github.com/vk2him/Enphase-Envoy-mqtt-json)** - Real-time stream from Enphase Envoy to MQTT broker for Home Assistant
+- **[audible-bookmark-extractor](https://github.com/GGyll/audible-bookmark-extractor)** - Download Audible audiobooks and extract bookmarks for export to Readwise and Excel
+- **[october](https://github.com/marcus-crane/october)** - GUI for retrieving Kobo highlights and syncing them with Readwise
 
 ## 📚 Books & Publications
 
-**Author**: [iOS 7 Programming Pushing the Limits](https://www.amazon.com/stores/author/B006IY5KRK) - Develop advanced applications for Apple iPhone, iPad, and iPod Touch
+**Co-Author**: [iOS 7 Programming Pushing the Limits](https://www.amazon.com/stores/author/B006IY5KRK) - Develop advanced applications for Apple iPhone, iPad, and iPod Touch
 
-Co-authored comprehensive sample code helping developers master advanced iOS concepts, covering programming methodologies, mobile development, and usability engineering.
+Co-authored book helping developers master advanced iOS concepts, covering programming methodologies, mobile development, and usability engineering.
 
 ## 💡 Current Focus
 
