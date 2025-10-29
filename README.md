@@ -33,10 +33,40 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 </div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKSG-MugunthKumar&size_weight=0.5&count_weight=0.5)
+
+</div>
+
 ### Historical Contributions (Since 2009)
 <div align="center">
 
 [![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)](https://github.com/MKSG-MugunthKumar)
+
+</div>
+
+### Year by Year Contributions
+<div align="center">
+
+![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2025)
+![GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2024)
+![GitHub stats 2023](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2023)
+![GitHub stats 2022](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2022)
+![GitHub stats 2021](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2021)
+![GitHub stats 2020](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2020)
+![GitHub stats 2019](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2019)
+![GitHub stats 2018](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2018)
+![GitHub stats 2017](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2017)
+![GitHub stats 2016](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2016)
+![GitHub stats 2015](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2015)
+![GitHub stats 2014](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2014)
+![GitHub stats 2013](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2013)
+![GitHub stats 2012](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2012)
+![GitHub stats 2011](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2011)
+
+![GitHub stats 2010](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2010)
+![GitHub stats 2009](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2009)
 
 </div>
 
