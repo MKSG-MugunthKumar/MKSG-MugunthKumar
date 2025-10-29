@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm an engineering leader with nearly 20 years of experience in software architecture, design, and development, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform, building strategic partnerships with the University of Melbourne, Monash University, and Turning Point.
+I'm an engineering leader with 20+ years of experience in software architecture, AI/ML, and team leadership, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform from California, building strategic partnerships with the University of Melbourne, Monash University, and government health sectors.
 
-I build purpose-driven technology that creates real social impact. I believe every line of code should contribute to making the world better — whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
+I build purpose-driven technology that creates real social impact. With expertise in Python, AWS, iOS development, and building high-performance engineering teams, I believe every line of code should contribute to making the world better — whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
 
 ## 🔥 Recent Activity & Contributions
 
@@ -18,43 +18,64 @@ I build purpose-driven technology that creates real social impact. I believe eve
 - Maintaining and updating zsh-ai-assist with latest AI models
 - Reviewing and merging community PRs
 - Supporting multi-shell environments
-- Engaging with the open-source community
+- Contributing to open source projects
+- [LinkedIn Projects](https://www.linkedin.com/in/mugunthkumar)
 
-## 📊 GitHub Activity ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=github-compact&hide_border=true&area=true) <div align="center">
-![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKSG-MugunthKumar)
-</div>
+## 📊 GitHub Activity
+
+### Recent Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=github-compact&hide_border=true&area=true)
+
+### Contribution Stats
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKSG-MugunthKumar&theme=default&hide_border=true)
+
 </div>
 
+### Historical Contributions (Since 2009)
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKSG-MugunthKumar&size_weight=0.5&count_weight=0.5)
+
+[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)](https://github.com/MKSG-MugunthKumar)
+
 </div>
 
-<div align="center">
-![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2025)
-![GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2024)
-![GitHub stats 2023](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2023)
-![GitHub stats 2022](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2022)
-![GitHub stats 2021](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2021)
-![GitHub stats 2020](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2020)
-![GitHub stats 2019](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2019)
-![GitHub stats 2018](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2018)
-![GitHub stats 2017](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2017)
-![GitHub stats 2016](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2016)
-![GitHub stats 2015](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2015)
-![GitHub stats 2014](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2014)
-![GitHub stats 2013](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2013)
-![GitHub stats 2012](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2012)
-![GitHub stats 2011](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2011)
+## 🚀 Notable Open Source Projects
 
-![GitHub stats 2010](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2010)
-![GitHub stats 2009](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2009)
-</div>
+### Modern Developer Tools
+- **[zsh-ai-assist](https://github.com/MKSG-MugunthKumar/zsh-ai-assist)** ⭐ 6+ - AI-powered terminal assistant for Mac, Linux & Windows
+- **[ask-claude](https://github.com/MKSG-MugunthKumar/ask-claude)** - Command-line interface for Claude AI
 
-## 📚 Technical Writing
+### Legacy iOS Frameworks (Historical Impact)
+- **[MKNetworkKit](https://github.com/MKSG-MugunthKumar/MKNetworkKit)** ⭐ 3,000+ - iOS networking framework (Archived)
+- **[MKStoreKit](https://github.com/MKSG-MugunthKumar/MKStoreKit)** ⭐ 2,100+ - In-App Purchases framework (Archived)
+- **[UIKitCategoryAdditions](https://github.com/MKSG-MugunthKumar/UIKitCategoryAdditions)** ⭐ 300+ - Block-based UI components (Archived)
 
-Co-authored sample code for **iOS 7 Programming Pushing the Limits** - helping developers master advanced iOS concepts.
+### Utilities & Libraries
+- **[color-palette-tool](https://github.com/MKSG-MugunthKumar/color-palette-tool)** - Healthcare brand color palette generator for team use
+- **[GoldenRatioColors](https://github.com/MKSG-MugunthKumar/GoldenRatioColors)** - Generate aesthetically random colors
+- **[MKBlockTimer](https://github.com/MKSG-MugunthKumar/MKBlockTimer)** - Performance measurement utility
+- **[DeviceHelper](https://github.com/MKSG-MugunthKumar/DeviceHelper)** - iOS device capability detection
+
+## 🤝 Open Source Contributions
+
+Forked and contributed back to upstream:
+
+- **[Enphase-Envoy-mqtt-json](https://github.com/vk2him/Enphase-Envoy-mqtt-json)** - Real-time stream from Enphase Envoy to MQTT broker for Home Assistant
+- **[audible-bookmark-extractor](https://github.com/GGyll/audible-bookmark-extractor)** - Download Audible audiobooks and extract bookmarks for export to Readwise and Excel
+- **[october](https://github.com/marcus-crane/october)** - GUI for retrieving Kobo highlights and syncing them with Readwise
+
+## 📚 Books & Publications
+
+**Co-Author** of the "iOS Programming Pushing the Limits" series with Rob Napier:
+
+- **[iOS 7 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Applications/dp/1118818342)** (2014) - Advanced iOS 7 development
+- **[iOS 6 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Application/dp/1118449959)** (2012) - Advanced iOS 6 features and techniques
+- **[iOS 5 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Extraordinary/dp/1119961327)** (2011) - Deep Objective-C and advanced iOS development
+
+Published by John Wiley & Sons. Books translated into Spanish and French, and used as university textbooks worldwide, helping developers master advanced iOS concepts, programming methodologies, and usability engineering.
+
+[View all books on Amazon](https://www.amazon.com/stores/author/B006IY5KRK)
 
 ## 💡 Current Focus
 
@@ -76,8 +97,9 @@ Co-authored sample code for **iOS 7 Programming Pushing the Limits** - helping d
 ## 🌐 Connect With Me
 
 - 🌐 Personal Site: [mugunth.com](https://mugunth.com)
-- 🔗 Short Link: [mk.sg](https://mk.sg)
-- 💼 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
+- 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
+- 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
+- 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
 - 📍 Location: Melbourne, Australia 🇦🇺
 - 🏢 Current Role: CTO at Pink Cloud
 
