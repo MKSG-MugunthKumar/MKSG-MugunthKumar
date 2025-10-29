@@ -67,9 +67,15 @@ Forked and contributed back to upstream:
 
 ## 📚 Books & Publications
 
-**Co-Author**: [iOS 7 Programming Pushing the Limits](https://www.amazon.com/stores/author/B006IY5KRK) - Develop advanced applications for Apple iPhone, iPad, and iPod Touch
+**Co-Author** of the "iOS Programming Pushing the Limits" series with Rob Napier:
 
-Co-authored book helping developers master advanced iOS concepts, covering programming methodologies, mobile development, and usability engineering.
+- **[iOS 7 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Applications/dp/1118818342)** (2014) - Advanced iOS 7 development
+- **[iOS 6 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Application/dp/1118449959)** (2012) - Advanced iOS 6 features and techniques
+- **[iOS 5 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Extraordinary/dp/1119961327)** (2011) - Deep Objective-C and advanced iOS development
+
+Published by John Wiley & Sons. Books translated into Spanish and French, helping developers worldwide master advanced iOS concepts, programming methodologies, and usability engineering.
+
+[View all books on Amazon](https://www.amazon.com/stores/author/B006IY5KRK)
 
 ## 💡 Current Focus
 
