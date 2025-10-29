@@ -33,12 +33,6 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 </div>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKSG-MugunthKumar&size_weight=0.5&count_weight=0.5)
-
-</div>
-
 ### Historical Contributions (Since 2009)
 <div align="center">
 
