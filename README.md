@@ -81,9 +81,9 @@ Co-authored comprehensive sample code helping developers master advanced iOS con
 ## 🌐 Connect With Me
 
 - 🌐 Personal Site: [mugunth.com](https://mugunth.com)
-- 🔗 Short Link: [mk.sg](https://mk.sg)
-- 💼 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
+- 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
 - 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
+- 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
 - 📍 Location: Melbourne, Australia 🇦🇺
 - 🏢 Current Role: CTO at Pink Cloud
 
