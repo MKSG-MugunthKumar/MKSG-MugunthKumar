@@ -51,9 +51,16 @@ I build purpose-driven technology that creates real social impact. With expertis
 - **[UIKitCategoryAdditions](https://github.com/MKSG-MugunthKumar/UIKitCategoryAdditions)** ⭐ 300+ - Block-based UI components (Archived)
 
 ### Utilities & Libraries
+- **[color-palette-tool](https://github.com/MKSG-MugunthKumar/color-palette-tool)** - Healthcare brand color palette generator for team use
 - **[GoldenRatioColors](https://github.com/MKSG-MugunthKumar/GoldenRatioColors)** - Generate aesthetically random colors
 - **[MKBlockTimer](https://github.com/MKSG-MugunthKumar/MKBlockTimer)** - Performance measurement utility
 - **[DeviceHelper](https://github.com/MKSG-MugunthKumar/DeviceHelper)** - iOS device capability detection
+
+## 🤝 Open Source Contributions
+
+Contributing to projects I find useful:
+
+- **[october](https://github.com/marcus-crane/october)** - A simple GUI for retrieving Kobo highlights and syncing them with Readwise
 
 ## 📚 Books & Publications
 
