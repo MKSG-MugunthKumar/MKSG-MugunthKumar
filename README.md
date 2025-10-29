@@ -36,7 +36,9 @@ I build purpose-driven technology that creates real social impact. With expertis
 ### Contribution Graph
 
 <div align="center">
-[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)](https://github.com/MKSG-MugunthKumar)
+
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)
+
 </div>
 
 ### Stats this year
