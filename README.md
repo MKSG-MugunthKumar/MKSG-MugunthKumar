@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm an engineering leader with nearly 20 years of experience in software architecture, design, and development, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform, building strategic partnerships with the University of Melbourne, Monash University, and Turning Point.
+I'm an engineering leader with 20+ years of experience in software architecture, AI/ML, and team leadership, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform from California, building strategic partnerships with the University of Melbourne, Monash University, and government health sectors.
 
-I build purpose-driven technology that creates real social impact. I believe every line of code should contribute to making the world better — whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
+I build purpose-driven technology that creates real social impact. With expertise in Python, AWS, iOS development, and building high-performance engineering teams, I believe every line of code should contribute to making the world better — whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
 
 ## 🔥 Recent Activity & Contributions
 
@@ -72,6 +72,7 @@ Co-authored sample code for **iOS 7 Programming Pushing the Limits** - helping d
 - 🌐 Personal Site: [mugunth.com](https://mugunth.com)
 - 🔗 Short Link: [mk.sg](https://mk.sg)
 - 💼 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
+- 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
 - 📍 Location: Melbourne, Australia 🇦🇺
 - 🏢 Current Role: CTO at Pink Cloud
 
