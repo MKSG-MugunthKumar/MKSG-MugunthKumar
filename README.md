@@ -60,6 +60,8 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 Contributing to projects I find useful:
 
+- **[Enphase-Envoy-mqtt-json](https://github.com/MKSG-MugunthKumar/Enphase-Envoy-mqtt-json)** - Takes real-time stream from Enphase Envoy and publishes to MQTT broker for Home Assistant
+- **[audible-bookmark-extractor](https://github.com/MKSG-MugunthKumar/audible-bookmark-extractor)** - Download audiobooks from Audible and transcribe bookmarks to text, exportable to Readwise and Excel
 - **[october](https://github.com/marcus-crane/october)** - A simple GUI for retrieving Kobo highlights and syncing them with Readwise
 
 ## 📚 Books & Publications
