@@ -24,6 +24,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 ## 📊 GitHub Activity
 
 ### Recent Contributions
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=github-compact&hide_border=true&area=true)
 
 ### Contribution Stats
@@ -37,13 +38,15 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
 
 </div>
 
 ### Stats this year
 <div align="center">
-![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&commits_year=2025)
+
+  ![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar)
+  
 </div>
 
 ## 🚀 Notable Open Source Projects
