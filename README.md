@@ -30,7 +30,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 ### Contribution Stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKSG-MugunthKumar&theme=default&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=blue-green)](https://git.io/streak-stats)
 
 </div>
 
@@ -38,15 +38,8 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true)
 
-</div>
-
-### Stats this year
-<div align="center">
-
-  ![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar)
-  
 </div>
 
 ## 🚀 Notable Open Source Projects
