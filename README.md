@@ -28,12 +28,20 @@ I build purpose-driven technology that creates real social impact. With expertis
 #### Recent Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=merko&hide_border=true&area=true)
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=merko" alt="GitHub Streak" />
-<img src="https://github-readme-stats-seven-plum-79.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+![GitHub Streak](https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=merko)
 
-</div>
+</td>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats-seven-plum-79.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Notable Open Source Projects
 
