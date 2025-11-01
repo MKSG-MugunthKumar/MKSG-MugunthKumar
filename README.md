@@ -30,7 +30,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 ### Contribution Stats
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
@@ -38,7 +38,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-stats-seven-plum-79.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true)
 
 </div>
 
@@ -56,8 +56,6 @@ I build purpose-driven technology that creates real social impact. With expertis
 ### Utilities & Libraries
 - **[color-palette-tool](https://github.com/MKSG-MugunthKumar/color-palette-tool)** - Healthcare brand color palette generator for team use
 - **[GoldenRatioColors](https://github.com/MKSG-MugunthKumar/GoldenRatioColors)** - Generate aesthetically random colors
-- **[MKBlockTimer](https://github.com/MKSG-MugunthKumar/MKBlockTimer)** - Performance measurement utility
-- **[DeviceHelper](https://github.com/MKSG-MugunthKumar/DeviceHelper)** - iOS device capability detection
 
 ## 🤝 Open Source Contributions
 
@@ -98,7 +96,7 @@ Published by John Wiley & Sons. Books translated into Spanish and French, and us
 
 ## 🌐 Connect With Me
 
-- 🌐 Personal Site: [mugunth.com](https://mugunth.com)
+- 🌐 Personal Site: [mugunth.com](https://mk.sg)
 - 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
 - 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
 - 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
@@ -119,6 +117,6 @@ Published by John Wiley & Sons. Books translated into Spanish and French, and us
 
 <div align="center">
 
-*Building tools that developers love to use*
+*Impactful Tech, For Humanity.* 
 
 </div>
