@@ -23,22 +23,15 @@ I build purpose-driven technology that creates real social impact. With expertis
 
 ## 📊 GitHub Activity
 
-### Recent Contributions
+### Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=github-compact&hide_border=true&area=true)
-
-### Contribution Stats
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=merko)](https://git.io/streak-stats)
-
-</div>
-
-### Contribution Graph
+#### Recent Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKSG-MugunthKumar&theme=merko&hide_border=true&area=true)
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-stats-seven-plum-79.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true)
+<img src="https://github-readme-streak-stats-wine-eight.vercel.app?user=MKSG-MugunthKumar&theme=merko" alt="GitHub Streak" />
+<img src="https://github-readme-stats-seven-plum-79.vercel.app/api?username=MKSG-MugunthKumar&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
