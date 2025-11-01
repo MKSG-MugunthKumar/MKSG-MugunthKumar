@@ -97,7 +97,7 @@ Published by John Wiley & Sons. Books translated into Spanish and French, and us
 
 ## 🌐 Connect With Me
 
-- 🌐 Personal Site: [mugunth.com](https://mk.sg)
+- 🌐 Personal Site: [mk.sg](https://mk.sg)
 - 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
 - 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
 - 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
