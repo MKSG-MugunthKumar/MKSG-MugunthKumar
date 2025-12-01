@@ -13,11 +13,17 @@ I build purpose-driven technology that creates real social impact. With expertis
   - Recently updated with Claude Sonnet 4.5 support
   - Active community contributions and PRs
   - Cross-platform shell support (Zsh, Bash, Fish)
+- **[Lookout](https://github.com/raghulj/lookout)** - Break reminder app for Linux desktop
+  - Built with Rust, GTK4, and libadwaita
+  - System tray integration with <10MB memory footprint
+- **[wallflow](https://github.com/MKSG-MugunthKumar/wallflow)** - Wallpaper management with dynamic color schemes
+  - Currently being rewritten in Rust
+  - Supports Wallhaven, Picsum, and local sources
 
 ### Recent Contributions (2025)
+- Building Linux desktop tools with Rust, GTK4, and libadwaita
 - Maintaining and updating zsh-ai-assist with latest AI models
-- Reviewing and merging community PRs
-- Supporting multi-shell environments
+- Developing audio visualizer integrations (cavasik-color-sync)
 - Contributing to open source projects
 - [LinkedIn Projects](https://www.linkedin.com/in/mugunthkumar)
 
@@ -45,6 +51,12 @@ I build purpose-driven technology that creates real social impact. With expertis
 ### Modern Developer Tools
 - **[zsh-ai-assist](https://github.com/MKSG-MugunthKumar/zsh-ai-assist)** ⭐ 6+ - AI-powered terminal assistant for Mac, Linux & Windows
 - **[ask-claude](https://github.com/MKSG-MugunthKumar/ask-claude)** - Command-line interface for Claude AI
+
+### Linux Desktop Tools
+- **[Lookout](https://github.com/raghulj/lookout)** - Lightweight break reminder app for Linux. Helps reduce eye strain with micro breaks and long breaks. Built with Rust, GTK4, and libadwaita. Runs in system tray with <10MB memory footprint
+- **[wallflow](https://github.com/MKSG-MugunthKumar/wallflow)** ⭐ 2 - Elegant wallpaper management with smooth transitions and dynamic color schemes. Supports multiple sources (Wallhaven, Picsum, local), pywal integration, and auto-resolution detection. Being rewritten in Rust
+- **[cavasik-color-sync](https://github.com/MKSG-MugunthKumar/cavasik-color-sync)** ⭐ 1 - Automatically synchronize Cavasik audio visualizer colors with album art via DBus. Supports MPRIS2 media players (Spotify, VLC, Plex) with multiple color schemes
+- **RepoSentry** 🔜 - Coming soon — Intelligent git repository synchronization daemon that automatically keeps local repo collections in sync with GitHub. Features safe-pull logic, conflict detection, parallel operations, and background daemon mode. Built with Rust
 
 ### Legacy iOS Frameworks (Historical Impact)
 - **[MKNetworkKit](https://github.com/MKSG-MugunthKumar/MKNetworkKit)** ⭐ 3,000+ - iOS networking framework (Archived)
