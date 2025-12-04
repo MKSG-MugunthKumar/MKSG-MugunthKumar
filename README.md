@@ -19,6 +19,9 @@ I build purpose-driven technology that creates real social impact. With expertis
 - **[wallflow](https://github.com/MKSG-MugunthKumar/wallflow)** - Wallpaper management with dynamic color schemes
   - Currently being rewritten in Rust
   - Supports Wallhaven, Picsum, and local sources
+- **[ha-chameleon](https://github.com/MKSG-MugunthKumar/ha-chameleon)** - Home Assistant integration for ambient lighting
+  - Extracts colors from images and applies them to RGB lights
+  - HACS compatible with animation mode support
 
 ### Recent Contributions (2025)
 - Building Linux desktop tools with Rust, GTK4, and libadwaita
@@ -59,6 +62,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 - **[Lookout](https://github.com/raghulj/lookout)** - Lightweight break reminder app for Linux. Helps reduce eye strain with micro breaks and long breaks. Built with Rust, GTK4, and libadwaita. Runs in system tray with <10MB memory footprint
 - **[wallflow](https://github.com/MKSG-MugunthKumar/wallflow)** ⭐ 2 - Elegant wallpaper management with smooth transitions and dynamic color schemes. Supports multiple sources (Wallhaven, Picsum, local), pywal integration, and auto-resolution detection. Being rewritten in Rust
 - **[cavasik-color-sync](https://github.com/MKSG-MugunthKumar/cavasik-color-sync)** ⭐ 1 - Automatically synchronize Cavasik audio visualizer colors with album art via DBus. Supports MPRIS2 media players (Spotify, VLC, Plex) with multiple color schemes
+- **[ha-chameleon](https://github.com/MKSG-MugunthKumar/ha-chameleon)** ⭐ 1 - Home Assistant custom component that extracts colors from images and applies them to RGB lights. Supports multi-light distribution, animation mode, and HACS installation
 - **RepoSentry** 🔜 - Coming soon — Intelligent git repository synchronization daemon that automatically keeps local repo collections in sync with GitHub. Features safe-pull logic, conflict detection, parallel operations, and background daemon mode. Built with Rust
 
 ### Legacy iOS Frameworks (Historical Impact)
