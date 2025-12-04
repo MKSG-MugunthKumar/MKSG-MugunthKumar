@@ -113,6 +113,7 @@ Published by John Wiley & Sons. Books translated into Spanish and French, and us
 - 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
 - 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
 - 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
+- 🐘 Mastodon: [@mk_sg@mastodon.social](https://mastodon.social/@mk_sg)
 - 📍 Location: Melbourne, Australia 🇦🇺
 - 🏢 Current Role: CTO at Pink Cloud
 
