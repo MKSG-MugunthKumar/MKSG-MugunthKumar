@@ -55,8 +55,7 @@ I build purpose-driven technology that creates real social impact. With expertis
 ## 🚀 Notable Open Source Projects
 
 ### Modern Developer Tools
-- **[zsh-ai-assist](https://github.com/MKSG-MugunthKumar/zsh-ai-assist)** ⭐ 6+ - AI-powered terminal assistant for Mac, Linux & Windows
-- **[ask-claude](https://github.com/MKSG-MugunthKumar/ask-claude)** - Command-line interface for Claude AI
+- **[zsh-ai-assist](https://github.com/MKSG-MugunthKumar/zsh-ai-assist)** ⭐ 6+ - AI-powered terminal assistant for Mac, Linux & Windows (previously known as ask-claude)
 
 ### Linux Desktop Tools
 - **[Lookout](https://github.com/raghulj/lookout)** - Lightweight break reminder app for Linux. Helps reduce eye strain with micro breaks and long breaks. Built with Rust, GTK4, and libadwaita. Runs in system tray with <10MB memory footprint
@@ -90,7 +89,7 @@ Forked and contributed back to upstream:
 - **[iOS 6 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Application/dp/1118449959)** (2012) - Advanced iOS 6 features and techniques
 - **[iOS 5 Programming Pushing the Limits](https://www.amazon.com/iOS-Programming-Pushing-Limits-Extraordinary/dp/1119961327)** (2011) - Deep Objective-C and advanced iOS development
 
-Published by John Wiley & Sons. Books translated into Spanish and French, and used as university textbooks worldwide, helping developers master advanced iOS concepts, programming methodologies, and usability engineering.
+Published by John Wiley & Sons. Books translated into Spanish, French, and Mandarin Chinese, and used as university textbooks worldwide, helping developers master advanced iOS concepts, programming methodologies, and usability engineering.
 
 [View all books on Amazon](https://www.amazon.com/stores/author/B006IY5KRK)
 
