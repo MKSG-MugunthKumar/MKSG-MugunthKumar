@@ -1,5 +1,14 @@
 # Hi there, I'm Mugunth Kumar (MK) 👋
 
+
+<div align="center">
+
+![GitHub Stats](https://img.shields.io/badge/Repos-50-blue?style=for-the-badge)
+![Followers](https://img.shields.io/badge/Followers-1.3k-green?style=for-the-badge)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-2009-orange?style=for-the-badge)
+
+</div>
+
 ## About Me
 
 I'm an engineering leader with 20+ years of experience in software architecture, AI/ML, and team leadership, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform from California, building strategic partnerships with the University of Melbourne, Monash University, and government health sectors.
@@ -118,17 +127,8 @@ Published by John Wiley & Sons. Books translated into Spanish, French, and Manda
 - 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
 - 🐘 Mastodon: [@mk_sg@mastodon.social](https://mastodon.social/@mk_sg)
 - 📍 Location: Melbourne, Australia 🇦🇺
-- 🏢 Current Role: CTO at Pink Cloud
+- 🏢 Current Role: Open for new roles
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/Repos-50-blue?style=for-the-badge)
-![Followers](https://img.shields.io/badge/Followers-1.3k-green?style=for-the-badge)
-![Since](https://img.shields.io/badge/On%20GitHub%20Since-2009-orange?style=for-the-badge)
-
-</div>
 
 ---
 
