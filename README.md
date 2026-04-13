@@ -9,9 +9,9 @@
 
 </div>
 
-I'm an engineering leader with 20+ years of experience in software architecture, AI/ML, and team leadership, based in Melbourne, Australia. As **CTO of Pink Cloud**, I'm spearheading the Australian expansion of our evidence-based addiction recovery platform from California, building strategic partnerships with the University of Melbourne, Monash University, and government health sectors.
+I'm an engineering leader with 20+ years of experience in software architecture, AI/ML, and team leadership, based in Melbourne, Australia. Most recently as **CTO of Pink Cloud**, I led the Australian expansion of an evidence-based addiction recovery platform, building strategic partnerships with the University of Melbourne, Monash University, and government health sectors. Currently building **Nool** at **MindKraft Studios Group** and open to new opportunities.
 
-I build purpose-driven technology that creates real social impact. With expertise in Python, AWS, iOS development, and building high-performance engineering teams, I believe every line of code should contribute to making the world better — whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
+I'm a polyglot engineer who picks the right language and stack for the right problem. I've shipped production systems in Python, Rust, Go, TypeScript, Kotlin, and Swift — a software architect should see the big picture, not be defined by a single language. I build purpose-driven technology that creates real social impact, whether through open-source developer tools, AI-powered learning platforms, or technology that supports individuals in recovery.
 
 ## 🔥 Recent Activity & Contributions
 
@@ -102,14 +102,15 @@ Published by John Wiley & Sons. Books translated into Spanish, French, and Manda
 
 ## 💡 Current Focus
 
-### Professional
-- **CTO at Pink Cloud** - Leading Australian expansion of evidence-based addiction recovery platform
-- Building partnerships with leading Australian universities and research centers
-- Scaling healthcare technology with real social impact
+### MindKraft Studios Group (Founder) — Current
+- **[Nool](https://nool.au)** ([read.nool.au](https://read.nool.au)) - Reading companion platform with semantic book discovery powered by vector embeddings — a capability competitors like Goodreads and StoryGraph lack
+- Full-stack: Django 5.1+, HTMX, TailwindCSS, pgvector, Celery, Stripe; native iOS and Android apps; self-hosted with Forgejo CI, Caddy, Cloudflare Tunnel
+- **[Resonance](https://github.com/MKSG-MugunthKumar/resonance)** - Semantic search engine using vector embeddings (Qdrant, pgvector) and cosine similarity; shipped semantic book discovery into Nool — a capability competitors like Goodreads and StoryGraph lack
 
-### Side Projects
-- **Nool** - AI-powered reading companion that combats digital distraction by making reading as engaging as social media
-- Curated book reviews and reading recommendations
+### Recent Roles
+- **CTO at Pink Cloud** - Led Australian expansion of evidence-based addiction recovery platform, building partnerships with University of Melbourne, Monash, and government health sectors
+- **Principal Engineer at MightyCursor** - Architected AI-integrated system using FastAPI and scikit-learn with cross-platform macOS deployment
+- **Principal Engineer at PaperCut Software** - Created mobile engineering capability from scratch, mentored 4 engineers into mobile specialists
 
 ### Open Source
 - Building AI-powered developer tools
@@ -119,13 +120,13 @@ Published by John Wiley & Sons. Books translated into Spanish, French, and Manda
 
 ## 🌐 Connect With Me
 
-- 🌐 Personal Site: [mk.sg](https://mk.sg)
-- 📄 Resume: [mk.sg/resume](https://mk.sg/resume)
+- 🌐 Personal Site: [mugunth.com](https://mugunth.com)
+- 📄 Resume: [mugunth.com/resume](https://mugunth.com/resume)
 - 💼 LinkedIn: [linkedin.com/in/mugunthkumar](https://www.linkedin.com/in/mugunthkumar)
 - 💻 GitHub: [@MKSG-MugunthKumar](https://github.com/MKSG-MugunthKumar)
 - 🐘 Mastodon: [@mk_sg@mastodon.social](https://mastodon.social/@mk_sg)
 - 📍 Location: Melbourne, Australia 🇦🇺
-- 🏢 Current Role: Open for new roles
+- 🏢 Current Role: Founder at MindKraft Studios Group | Open to new opportunities
 
 
 ---
